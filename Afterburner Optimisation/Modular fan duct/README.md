@@ -22,9 +22,9 @@ The duct is available for all supported toolheads (Mosquito, E3DV6, Dragon), how
 
 Regarding improvement on cooling, below is a comparison of, from left to right, stock cooling (4020 blower fan/stock duct), 5015 blower fan with stock duct, 5015 blower fan with a previous iteration of nozzle design, 5015 blower fan with current iteration of nozzle design
 
-<img width=600 src="Cooling_comparisons_front.jpg" />
+<img width=1000 src="Cooling_comparisons_front.jpg" />
 
-<img width=600 src="Cooling_comparisons_back.jpg" />
+<img width=1000 src="Cooling_comparisons_back.jpg" />
 
 The Benchies are printed with a PLA that requires a hell of cooling (Fiberlogy Fibersilk PLA). A regular PLA could produce a good Benchy with the stock cooling. The advantages of using this hard to cool PLA is that since you get a flawed Benchy you can see the improvements on cooling that are achieved
 
