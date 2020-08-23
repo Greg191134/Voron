@@ -6,16 +6,18 @@ This repository contains project related to Voron 3D Printers
 
 The Vorender 4 is an upcycling of my Creality Ender 4 that was laying in parts.
 
-It uses the profiles of the frame from the Ender 4, the bed and it associated smooth rods and lead screw, the power supply.
+It uses the profiles of the frame from the Ender 4, the bed and its associated smooth rods and lead screw, the power supply and a few other minor components.
 
-The gantry is the one of the Voron 2.4 modified to use MGN12 linear rails instead of the specified MGN9 that can not fit on vslots extrusion
+The gantry is the one of the Voron 2.4 modified to use MGN12 linear rails instead of the specified MGN9 that can not fit on vslots extrusion. The toolhead is an afterburner with a 5015 blower and a modified fan duct.
+
+The printer is powered by a BTT SKR mini E3 V2.0 and uses sensorless homing on X and Y.
 
 <img width=600 src="Vorender-4/Photos/Vorender_4_Side.jpg" />
 
 ## Integration of a 5015 blower fan for the Afterburner
 
 This project is about replacing the default 4020 blower of the Afterburner toolhead by a more powerfull 5015 one while keeping the aesthetic of the tool head
-
+r
 <img width=600 src="Afterburner Optimisation/5015 fan mod/View front cover removed.png">
 
 ## Modular fan duct
