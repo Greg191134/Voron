@@ -16,7 +16,7 @@ The lips located on the fan duct where the nozzle sits are relatively thin. You 
 
 The duct is available for all supported toolheads (Mosquito, E3DV6, Dragon), however it was only tested on a Mellow NF Crazy mosquito clone
 
-<img width=600 src="Modular fan duct.jpg" />
+<img width=1000 src="Modular fan duct.jpg" />
 
 ## Cooling improvements
 
