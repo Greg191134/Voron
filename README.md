@@ -17,7 +17,7 @@ The printer is powered by a BTT SKR mini E3 V2.0 and uses sensorless homing on X
 ## Integration of a 5015 blower fan for the Afterburner
 
 This project is about replacing the default 4020 blower of the Afterburner toolhead by a more powerfull 5015 one while keeping the aesthetic of the tool head
-r
+
 <img width=600 src="Afterburner Optimisation/5015 fan mod/View front cover removed.png">
 
 ## Modular fan duct
