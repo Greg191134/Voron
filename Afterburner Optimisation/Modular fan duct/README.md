@@ -28,6 +28,10 @@ Regarding improvement on cooling, below is a comparison of, from left to right, 
 
 The Benchies are printed with a PLA that requires a hell of cooling (Fiberlogy Fibersilk PLA). A regular PLA could produce a good Benchy with the stock cooling. The advantages of using this hard to cool PLA is that since you get a flawed Benchy you can see the improvements on cooling that are achieved
 
+<img width=600 src="Overview of tested nozzles.jpg" />
+
+An overview of tested nozzle configurations
+
 ## Using the duct with the stock 4020 cooling
 
 The modular duct is normally intended to complement the 5015 mod and was optimized for that. You can however use if with the stock cooling. Below is a comparison between the stock duct (left) and the modular duct with its current nozzle
