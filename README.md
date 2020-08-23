@@ -26,6 +26,6 @@ This project is liked to the previous one. It is aimed at optimizing the use of 
 
 This is a modular fan duct where the tips of the duct are separate pieces that can be printed in about 20 minutes therefore enabling to quickly test several configurations to iterate on the design, replace them if they melt, having different tips depending on what you are printing (PLA vs ABS for instance).
 
-It is available for all supported toolheads (Mosquito, E3D V6, Dragon) but has only been tested on the Mellow NF Crazy Mosquito clone (which performs pretty nicely.
+It is available for all supported toolheads (Mosquito, E3D V6, Dragon) but has only been tested on the Mellow NF Crazy Mosquito clone (which performs pretty nicely).
 
-<img width=600 src="Afterburner Optimisation/Modular fan duct/Modular fan duct.jpg">
+<img width=1000 src="Afterburner Optimisation/Modular fan duct/Modular fan duct.jpg">
