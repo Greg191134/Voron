@@ -2,17 +2,11 @@
 
 This repository contains project related to Voron 3D Printers
 
-## The Vorender 4
+## The Matryoshka
 
-The Vorender 4 is an upcycling of my Creality Ender 4 that was laying in parts.
+The Matryoshka is an alternate cooling solution for the Voron Afterburner that uses 2 4010 blower fans (like in the pre-afterburner era).
 
-It uses the profiles of the frame from the Ender 4, the bed and its associated smooth rods and lead screw, the power supply and a few other minor components.
-
-The gantry is the one of the Voron 2.4 modified to use MGN12 linear rails instead of the specified MGN9 that can not fit on vslots extrusion. The toolhead is an afterburner with a 5015 blower and a modified fan duct.
-
-The printer is powered by a BTT SKR mini E3 V2.0 and uses sensorless homing on X and Y.
-
-<img width=600 src="Vorender-4/Photos/Vorender_4_Side.jpg" />
+<img width=600 src="Afterburner Optimisation/The Matryoshka/The Matryoshka.jpg">
 
 ## Integration of a 5015 blower fan for the Afterburner
 
@@ -29,3 +23,15 @@ This is a modular fan duct where the tips of the duct are separate pieces that c
 It is available for all supported toolheads (Mosquito, E3D V6, Dragon) but has only been tested on the Mellow NF Crazy Mosquito clone (which performs pretty nicely).
 
 <img width=1000 src="Afterburner Optimisation/Modular fan duct/Modular fan duct.jpg">
+
+## The Vorender 4
+
+The Vorender 4 is an upcycling of my Creality Ender 4 that was laying in parts.
+
+It uses the profiles of the frame from the Ender 4, the bed and its associated smooth rods and lead screw, the power supply and a few other minor components.
+
+The gantry is the one of the Voron 2.4 modified to use MGN12 linear rails instead of the specified MGN9 that can not fit on vslots extrusion. The toolhead is an afterburner with a 5015 blower and a modified fan duct.
+
+The printer is powered by a BTT SKR mini E3 V2.0 and uses sensorless homing on X and Y.
+
+<img width=600 src="Vorender-4/Photos/Vorender_4_Side.jpg" />
