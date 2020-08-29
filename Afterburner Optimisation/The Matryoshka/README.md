@@ -1,10 +1,10 @@
 # The Matryoshka
 
+<img width=600 src="The Matryoshka.jpg" />
+
 The Matryoshka is an alternate cooling solution for the Voron afterburner that uses 2 4010 blower fans (like in the pre-afterburner era). 
 
 Main benefit over the 5015 blower fan is better cooling on the rear of the model and higher airflow
-
-<img width=600 src="The Matryoshka.jpg" />
 
 This is still a work in progress so things may change and are not optimized yet. Especially the nozzles at the outlet of the fans can certainly be optimized
 
@@ -13,6 +13,8 @@ This is still a work in progress so things may change and are not optimized yet.
 Depending on how your printer is buit you may have an area at the front left and right of your bed that spans over couple of millemeter on X and 25 mm on Y that you can't reach. Check that you do not print there and also that you do not go there for a bed leveling routine or a prime line
 
 ## Printing and installation
+
+<img width=1000 src="The Matryoshka - CAD views.png" />
 
 Print with the ABS or your choice.
 
@@ -32,9 +34,9 @@ The Matryoshka is available for all supported toolheads (Mosquito, E3DV6, Dragon
 
 Regarding improvement on cooling, below is a comparison.
 
-<img width=1000 src="Comparison Front.jpg" />
+<img width=1000 src="Comparison - Front.jpg" />
 
-<img width=1000 src="Comparison Rear.jpg" />
+<img width=1000 src="Comparison - Rear.jpg" />
 
 So here is the required comparison. From left to right
 - Stock cooling (GDSTIME 4020 24V 7500 rpm , 4.49 CFM, 0.57 in H2O)
