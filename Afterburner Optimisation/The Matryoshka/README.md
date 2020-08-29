@@ -32,13 +32,13 @@ The Matryoshka is available for all supported toolheads (Mosquito, E3DV6, Dragon
 
 ## Cooling improvements
 
-Regarding improvement on cooling, below is a comparison.
+Regarding improvement on cooling, below is a comparison (open the full size images to better see the differences).
 
 <img width=1000 src="Comparison - Front.jpg" />
 
 <img width=1000 src="Comparison - Rear.jpg" />
 
-So here is the required comparison. From left to right
+From left to right
 - Stock cooling (GDSTIME 4020 24V 7500 rpm , 4.49 CFM, 0.57 in H2O)
 - Long 's (Long V2.349 on Discord) duct (GDSTIME 5015 6000 rpm, 5.36 CFM, 1.21 in H2O)
 - My duct (GDSTIME 5015 6000 rpm, 5.36 CFM, 1.21 in H2O integrated in afterburner)
