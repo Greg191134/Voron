@@ -41,7 +41,7 @@ Regarding improvement on cooling, below is a comparison (open the full size imag
 From left to right
 - Stock cooling (GDSTIME 4020 24V 7500 rpm , 4.49 CFM, 0.57 in H2O)
 - Long 's (Long V2.349 on Discord) duct (GDSTIME 5015 6000 rpm, 5.36 CFM, 1.21 in H2O)
-- My duct (GDSTIME 5015 6000 rpm, 5.36 CFM, 1.21 in H2O integrated in afterburner)
+- My modular duct (GDSTIME 5015 6000 rpm, 5.36 CFM, 1.21 in H2O integrated in afterburner)
 - The Matryoshka (2x GDSTIME 4010 11000 rpm, 4.02 CFM, 0.71 in H2O)
 
 Long's duct is available here : https://fayly.voron.dev/index.php/s/C4SyzrT3S5MazE9
