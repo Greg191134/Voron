@@ -2,6 +2,12 @@
 
 This repository contains project related to Voron 3D Printers
 
+## The Warbird
+
+The Warbird is alternate fan duct for the Afterburner aimed at improving the cooling with the stock 4020 fan
+
+<img width=600 src="Afterburner Optimisation/The Warbird/Warbird.jpg">
+
 ## The Matryoshka
 
 The Matryoshka is an alternate cooling solution for the Voron Afterburner that uses 2 4010 blower fans (like in the pre-afterburner era).
