@@ -10,7 +10,7 @@ This is still a work in progress so things may change and are not optimized yet.
 
 **Important : the toolhead is wider that the Afterburner, it should not interfere with the ends of the X axis, however it may interfere with your idlers at the front of your bed.** 
 
-Depending on how your printer is buit you may have an area at the front left and right of your bed that spans over couple of millemeter on X and 25 mm on Y that you can't reach. Check that you do not print there and also that you do not go there for a bed leveling routine or a prime line
+Depending on how your printer is buit you may have an area at the front left and right of your bed that spans over couple of millemeter on X and 40 mm on Y that you can't reach. Check that you do not print there and also that you do not go there for a bed leveling routine or a prime line
 
 ## Printing and installation
 
