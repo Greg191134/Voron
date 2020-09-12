@@ -34,7 +34,7 @@ The 2 Benchies on the left are printed with a PLA that requires a lot of cooling
 
 Here is the CFD simulation of the duct if you fancy that
 
-<img witdh=400 src="CFD Front.png"> <img witdh=400 src="CFD Bottom.png">
+<img width=400 src="CFD Front.png"> <img width=400 src="CFD Bottom.png">
 
 ## Using the fan duct with the 5015 fan mod
 
