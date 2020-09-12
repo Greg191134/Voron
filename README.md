@@ -6,7 +6,7 @@ This repository contains projects related to Voron 3D Printers
 
 The Warbird is alternate fan duct for the Afterburner aimed at improving the cooling with the stock 4020 fan
 
-<img width=600 src="Afterburner Optimisation/The Warbird/Warbird.jpg">
+<img width=600 src="Afterburner Optimisation/The Warbird/Warbird.png">
 
 ## The Matryoshka
 
