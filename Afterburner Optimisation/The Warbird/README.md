@@ -2,7 +2,7 @@
 
 This project is aimed at providing a more efficient fan duct for the 4020 stock cooling fan. The design is based on what has been learned through the experimentations that have been carried out in the #afterburner_optimization project on Voron Discord
 
-<img width=600 src="Warbird.png" />
+<img width=400 src="Warbird.png" /> <img width=400 src="Warbird bottom.png" />
 
 Fusion 360 file is provided so you can experiment and make your own design for the nozzles.
 
