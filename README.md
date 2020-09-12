@@ -1,6 +1,6 @@
 # Voron Repository
 
-This repository contains project related to Voron 3D Printers
+This repository contains projects related to Voron 3D Printers
 
 ## The Warbird
 
