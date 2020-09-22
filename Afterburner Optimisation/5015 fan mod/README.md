@@ -14,3 +14,6 @@ The fan will need to be seriously trimed to fit inside the housing so do not hop
 
 I cut my fan with a side cutter (cut it by small pieces) and used a file where you need to cut very close to the turbine.
 
+<img width=300 src="Blower casing cut.png" />
+
+
