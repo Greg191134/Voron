@@ -2,6 +2,12 @@
 
 This repository contains projects related to Voron 3D Printers
 
+## Bigtreetech Pi TFT50 Mount for V2.4 250
+
+This is a simple (non swiwel) mount that allows to integrate a 5" PI TFT50 on a Voron V2.4 250.
+
+<img width=600 src="Bigtreetech Pi TFT50 Mount for V2.4 250/Photo.jpg">
+
 ## The Warbird
 
 The Warbird is alternate fan duct for the Afterburner aimed at improving the cooling with the stock 4020 fan
