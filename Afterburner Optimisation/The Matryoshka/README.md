@@ -44,6 +44,4 @@ From left to right
 - My modular duct (GDSTIME 5015 6000 rpm, 5.36 CFM, 1.21 in H2O integrated in afterburner)
 - The Matryoshka (2x GDSTIME 4010 11000 rpm, 4.02 CFM, 0.71 in H2O)
 
-Long's duct is available here : https://fayly.voron.dev/index.php/s/C4SyzrT3S5MazE9
-
 The Benchies are printed with a PLA that requires a hell of cooling (Fiberlogy Fibersilk PLA). A regular PLA could produce a good Benchy with the stock cooling. The advantages of using this hard to cool PLA is that since you get a flawed Benchy you can see the improvements on cooling that are achieved
